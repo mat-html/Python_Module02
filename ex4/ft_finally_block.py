@@ -71,4 +71,4 @@ if __name__ == "__main__":
     print("Testing invalid plants...")
     test_invalid_watering_system()
     print()
-    print("Cleanup allways happens, even with errors!")
+    print("Cleanup always happens, even with errors!")
